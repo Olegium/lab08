@@ -1,1 +1,1 @@
-lab3CMAKEallHome Олег все файлы все файлы лабы 3
+#lab3CMAKEallHome Олег все файлы все файлы лабы 3
