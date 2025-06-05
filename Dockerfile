@@ -8,4 +8,4 @@ WORKDIR /building
 
 RUN cmake -H. -B_build
 RUN cmake --build _build
-CMD ["./laba06/lab061/hello_world_application"]
+
