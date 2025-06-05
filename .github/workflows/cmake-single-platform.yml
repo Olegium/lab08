@@ -21,9 +21,6 @@ jobs:
 
     - name: Run
       run: docker run --name HW_APP hw_app
-
-    - name: Copy
-      run: sudo docker cp HW_APP:building/_build/hello_world_application/hw_app .
       
     - run: mkdir -p artifacts
     - name: download_artefacts
